@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata20210130_array_diff", "Kata20210130_array_diff\Kata20210130_array_diff.csproj", "{DDCF3E16-4731-4FC5-BF7E-31176F75847D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDCF3E16-4731-4FC5-BF7E-31176F75847D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCF3E16-4731-4FC5-BF7E-31176F75847D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCF3E16-4731-4FC5-BF7E-31176F75847D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCF3E16-4731-4FC5-BF7E-31176F75847D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19AFDD16-2666-4C1F-95C9-BE67594DE771}
+	EndGlobalSection
+EndGlobal
